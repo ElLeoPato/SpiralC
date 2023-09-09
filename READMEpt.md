@@ -1,5 +1,6 @@
 # SpiralC
 [English README](https://github.com/ElLeoPato/SpiralC/blob/main/README.md)
+
 Este repositório é muito mais do que um projeto de geração de espiral em C.
 
 Examine o arquivo [spiral.c](https://github.com/ElLeoPato/SpiralC/blob/main/spiral.c) para ver como o código está estruturado.
