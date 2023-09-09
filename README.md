@@ -1,4 +1,6 @@
 # SpiralC
+[README em Português](https://github.com/ElLeoPato/SpiralC/blob/main/READMEpt.md)
+
 This repository is about much more than a spiral generating project in C.
 
 Examine the [spiral.c](https://github.com/ElLeoPato/SpiralC/blob/main/spiral.c) file to see how the code is structured.
