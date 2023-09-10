@@ -1,9 +1,9 @@
 # SpiralC
-[README em Português](https://github.com/ElLeoPato/SpiralC/blob/main/READMEpt.md)
+[README em Português](https://github.com/ElLowLeo/SpiralC/blob/main/READMEpt.md)
 
 This repository is about much more than a spiral generating project in C.
 
-Examine the [spiral.c](https://github.com/ElLeoPato/SpiralC/blob/main/spiral.c) file to see how the code is structured.
+Examine the [spiral.c](https://github.com/ElLowLeo/SpiralC/blob/main/spiral.c) file to see how the code is structured.
 
 That's exactly what it's about, I made this code with 9 principles in mind, which I will try to follow from now on, to achieve good code in C
 
@@ -26,4 +26,4 @@ It all depends. Probably, but here's the question: Will I absolutely follow all 
 **Not all of them.**
 
 # LICENSE
-Code distributed under the [MIT](https://github.com/ElLeoPato/SpiralC/blob/main/LICENSE) license
+Code distributed under the [MIT](https://github.com/ElLowLeo/SpiralC/blob/main/LICENSE) license
